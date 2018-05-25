@@ -5,7 +5,7 @@ class Player {
 	}
 	
 	constructor(){
-    	this.health = Player.fullHealth();
+		this.health = Player.fullHealth();
 		this.retreatPoint = Player.fullHealth() / 2;
 		this.recoveryPoint = Player.fullHealth() * 3 / 4;
   	}
