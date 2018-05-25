@@ -1,0 +1,13 @@
+
+Total Score: 502 + 100 = 602
+Your average grade for this tower is: A
+
+  Level 1: S
+  Level 2: A
+  Level 3: S
+  Level 4: A
+  Level 5: A
+  Level 6: A
+  Level 7: S
+  Level 8: S
+  Level 9: S
